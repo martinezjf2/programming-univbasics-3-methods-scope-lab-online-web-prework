@@ -18,7 +18,7 @@ puts link
 end
 
 
-def any_phrase (mario, toadstool, link, phrase)
+def any_phrase (phrase= )
 phrase= any_phrase
 puts any_phrase
 end
