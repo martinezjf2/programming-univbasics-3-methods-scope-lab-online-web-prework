@@ -23,9 +23,7 @@ phrase= "Do A Barrel Roll!"
 puts any_phrase
 end
 
-any_phrase ("Mario")
-any_phrase ("toadstool")
-any_phrase ("link")
+
 any_phrase ("phrase") 
 
 
